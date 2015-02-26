@@ -50,29 +50,29 @@ comments: disqus      # Switch disqus | facebook | none - comments. facebook = t
 
 # Embeds
 
-disqus_name: opentheme            # Your site name at Disqus
+disqus_name: dadsgaming            # Your site name at Disqus
 
-youtube_controls: 0               # Turn on=1/off=0 Youtube player features when embedding videos
+youtube_controls: 1               # Turn on=1/off=0 Youtube player features when embedding videos
 
 google_map_zoom: 16               # 1=Global zoom 18=Street Level
 google_map_view: satellite        # hybrid | satellite | roadmap
 google_map_height: 450            # Default map height. Width adjusts to container.
 
-# API Keys. PLEASE DO NOT USE THESE KEYS. Get your own at links in comments.
+# API Keys. 
 
-google_api_key: "AIzaSyDmt_iRsE8kQ1glUPC2GZpNLBsw1Laj9_0" # https://code.google.com/apis/console/
-google_analytics_ua: "UA-57703915-1" # Google Analytics site specific id
-google_cse_id: "012558675018178618302:kw1_r8qgyqc" # Google Custom Search Engine unique id
+#google_api_key: "AIzaSyDmt_iRsE8kQ1glUPC2GZpNLBsw1Laj9_0" # https://code.google.com/apis/console/
+google_analytics_ua: "UA-53292793-1" # Google Analytics site specific id
+google_cse_id: "016257104143329812843:n0_px1un1zk" # Google Custom Search Engine unique id
 
-mapbox: "pk.eyJ1Ijoib3BlbnRoZW1lIiwiYSI6ImNIWC1LTUUifQ.vq4k3nfTeTtDAk7eLCrVAw"
+#mapbox: "pk.eyJ1Ijoib3BlbnRoZW1lIiwiYSI6ImNIWC1LTUUifQ.vq4k3nfTeTtDAk7eLCrVAw"
 
-facebook_app: "390272554479803" # https://developers.facebook.com/
+#facebook_app: "390272554479803" # https://developers.facebook.com/
 
-mailchimp_u: "cf72d9276397b3175b874eb39" # Mailchimp u=unique identification
-mailchimp_id: "3a51637dcc" # Mailchip id
+#mailchimp_u: "cf72d9276397b3175b874eb39" # Mailchimp u=unique identification
+#mailchimp_id: "3a51637dcc" # Mailchip id
 
-addthis_pubid: "ra-54a66cfa35915034" # Get your pubid at https://www.addthis.com/dashboard
+addthis_pubid: "ra-54eeb9ae17598c96" # Get your pubid at https://www.addthis.com/dashboard
 
-pingdom_rum: "54a97d8aabe53daf361855a6" # https://my.pingdom.com/dashboard. Real User experience (speed) monitoring.
+#pingdom_rum: "54a97d8aabe53daf361855a6" # https://my.pingdom.com/dashboard. Real User experience (speed) monitoring.
 
-uservoice: "nvdgD40UtxnMoshpVHYxg"
+#uservoice: "nvdgD40UtxnMoshpVHYxg"
